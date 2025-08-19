@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "puppeteer-real-browser": "^1.4.3",
+    "dotenv": "^16.3.1"
+  },
+  "type": "module"
+}
