@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^24.16.2",
     "puppeteer-real-browser": "^1.4.3",
-    "dotenv": "^16.3.1"
+    "xlsx": "^0.18.5"
   },
   "type": "module"
 }

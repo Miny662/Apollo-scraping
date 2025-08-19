@@ -1,0 +1,685 @@
+{
+  "summary": {
+    "total_processed": 74,
+    "valid_sites": 71,
+    "hello_world_sites": 1,
+    "invalid_sites": 0,
+    "error_sites": 2,
+    "start_time": "2025-08-19T11:34:38.418Z",
+    "end_time": "2025-08-19T11:44:22.494Z",
+    "duration_minutes": 10
+  },
+  "valid_sites": [
+    {
+      "id": "54a5b8f17468692fa27c32a3",
+      "name": "Richard Snook",
+      "website_url": "http://www.nutritionsolutions.com",
+      "email": "richard@nutritionsolutionslifestyle.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionsolutions.com/fatlossplan/",
+      "page_title": "Nutrition Solutions - Meal Prep For Fitness Transformation"
+    },
+    {
+      "id": "60cc028cc860d10001bbc41d",
+      "name": "Lynda Gehrman",
+      "website_url": "http://www.physiologicnyc.com",
+      "email": "lynda@physiologicnyc.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://physiologicnyc.com/",
+      "page_title": "Integrative Medicine Center In New York City | Book Now"
+    },
+    {
+      "id": "668b3ab8bb662400019e0582",
+      "name": "Angela Wilkinson",
+      "website_url": "http://www.tntgetfit.com",
+      "email": "angela@tntgetfit.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://tnt-wellness.com/",
+      "page_title": "TNT Wellness | Functional Medicine and Nutrition"
+    },
+    {
+      "id": "66f641b139affd0001288a78",
+      "name": "Barbara B",
+      "website_url": "http://www.beachfitness.com",
+      "email": "barb@beachfitness.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://beachfitness.com/",
+      "page_title": "Beach Fitness - The Best Gym Near Me In Seal Beach"
+    },
+    {
+      "id": "66f6442b39affd000129457b",
+      "name": "Katherine M",
+      "website_url": "http://www.nutritionsolutions.com",
+      "email": "katherine@nutritionsolutionslifestyle.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionsolutions.com/fatlossplan/",
+      "page_title": "Nutrition Solutions - Meal Prep For Fitness Transformation"
+    },
+    {
+      "id": "66f6451439affd0001298ea0",
+      "name": "Kyle T",
+      "website_url": "http://www.draungst.com",
+      "email": "drkyle@westsidechiros.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.draungst.com/",
+      "page_title": "Home | Portland, OR Chiropractor | Westside Chiropractic"
+    },
+    {
+      "id": "66f67fd0ef73f00001fc100f",
+      "name": "Jennifer Dewall",
+      "website_url": "https://nimrd.com",
+      "email": "jdewall@nutritioninmotion.info",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nimrd.com/",
+      "page_title": "Nutrition in Motion - Serving Dietitians and Their Clients- Find a Dietitian"
+    },
+    {
+      "id": "66f7182d92ca6e00018e0778",
+      "name": "Matt Troup",
+      "website_url": "http://www.bodysolutionskc.com",
+      "email": "mtroup@bodysolutionskc.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://bodysolutionskc.com/",
+      "page_title": "Body Solutions - The Best Personal Training In Overland Park"
+    },
+    {
+      "id": "66f731959678b30001a8faef",
+      "name": "Steve O",
+      "website_url": "http://www.theremedyonline.com",
+      "email": "steve@theremedyonline.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.theremedyonline.com/",
+      "page_title": "The Remedy ~ Welcome to Cloud Ten"
+    },
+    {
+      "id": "66f7c04b4444ed0001cd0d2a",
+      "name": "Natalie Rd",
+      "website_url": "http://www.balancednutritionllc.com",
+      "email": "natalie@balancednutritionllc.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.balancednutritionllc.com/",
+      "page_title": "Comprehensive Nutrition Counseling | Balanced Nutrition"
+    },
+    {
+      "id": "66f7cf94ae47ef00016266e8",
+      "name": "Elissa O",
+      "website_url": "http://www.nutritionsolutions.com",
+      "email": "elissa.olson@nutritionsolutions.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionsolutions.com/fatlossplan/",
+      "page_title": "Nutrition Solutions - Meal Prep For Fitness Transformation"
+    },
+    {
+      "id": "66f880c8a817d6000187b6c2",
+      "name": "Kelli Worley-Hendren",
+      "website_url": "http://www.nutritionsolutions.com",
+      "email": "kelli.worley-hendren@nutritionsolutionslifestyle.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionsolutions.com/fatlossplan/",
+      "page_title": "Nutrition Solutions - Meal Prep For Fitness Transformation"
+    },
+    {
+      "id": "66f892e41fb6a70001faa9b2",
+      "name": "Douglas S",
+      "website_url": "http://www.truenutrition.com",
+      "email": "dsmith@truenutrition.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://truenutrition.com/",
+      "page_title": "True Nutrition"
+    },
+    {
+      "id": "66f8a42ea817d60001917c5c",
+      "name": "Al Hayes",
+      "website_url": "http://www.nutritionsolutions.com",
+      "email": "al@nutritionsolutionslifestyle.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionsolutions.com/fatlossplan/",
+      "page_title": "Nutrition Solutions - Meal Prep For Fitness Transformation"
+    },
+    {
+      "id": "66f9593b127716000144c2a9",
+      "name": "Julie Luzarraga",
+      "website_url": "http://www.omahaic.com",
+      "email": "j.luzarraga@omahaic.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.omahaic.com/",
+      "page_title": "Omaha Integrative Care"
+    },
+    {
+      "id": "66fc54da67c55b000142b656",
+      "name": "Maureen Hayes",
+      "website_url": "http://www.wellnessbd.com",
+      "email": "maureen.hayes@wellnessbd.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://wellnessbd.com/",
+      "page_title": "HOME - wellnessbd"
+    },
+    {
+      "id": "66fc55a667c55b000142efca",
+      "name": "Chris Houle",
+      "website_url": "http://www.wellnessbd.com",
+      "email": "chris.houle@wellnessbd.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://wellnessbd.com/",
+      "page_title": "HOME - wellnessbd"
+    },
+    {
+      "id": "66fe0441dd6584000145ee93",
+      "name": "Katie C",
+      "website_url": "http://www.balancednutritionllc.com",
+      "email": "katie@balancednutritionllc.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.balancednutritionllc.com/",
+      "page_title": "Comprehensive Nutrition Counseling | Balanced Nutrition"
+    },
+    {
+      "id": "671a063c7dfef100019da6a2",
+      "name": "Namita Nayyar",
+      "website_url": "http://www.womenfitness.net",
+      "email": "namita@womenfitness.net",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.womenfitness.net/",
+      "page_title": "Women Fitness| A Wholesome Guide to Women Health & Wellness"
+    },
+    {
+      "id": "678d623d2dc3220001cc8c99",
+      "name": "Sarah Quick",
+      "website_url": "http://www.sarahlynnnutrition.com",
+      "email": "sarah@sarahlynnnutrition.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.sarahlynnnutrition.com/",
+      "page_title": "Sarah Lynn Nutrition - Telehealth RDN's"
+    },
+    {
+      "id": "68a3a5beba5a220021acbd20",
+      "name": "Steve Steeves",
+      "website_url": "https://nutritionandhealthcenter.com",
+      "email": "steve@nutritionandhealthcenter.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nutritionandhealthcenter.com/",
+      "page_title": "Nutrition And Health Center | Healthy Solutions For Abundant Living"
+    },
+    {
+      "id": "68a418a4af74fa001931691b",
+      "name": "Nicole Sattler",
+      "website_url": "https://nourishfamily.com",
+      "email": "nicole@nourishnutritioncolorado.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nourishfamily.com/",
+      "page_title": "Nourish Family Nutrition Registered Dietitian Nutritionists"
+    },
+    {
+      "id": "68a418ae150eb0000d9e40ed",
+      "name": "Brian Frank",
+      "website_url": "https://hammernutrition.com",
+      "email": "bfrank@hammernutrition.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://hammernutrition.com/",
+      "page_title": "Hammer Nutrition | Fuels & Supplements for Endurance Athletes"
+    },
+    {
+      "id": "54a1acf17468694f8fd9fb06",
+      "name": "Wendey Maynand",
+      "website_url": "https://bodybalancepleasanton.com",
+      "email": "tess@bodybalancepleasanton.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://bodybalancepleasanton.com/",
+      "page_title": "Home - Body Balance Pleasanton"
+    },
+    {
+      "id": "54a285837468693cdd382129",
+      "name": "Sherry Moses",
+      "website_url": "http://www.thehealthyway.us",
+      "email": null,
+      "validation_reason": "Valid website",
+      "final_url": "https://thehealthyway.us/",
+      "page_title": "Lose Weight Fast, Weight Loss Program, Santa Cruz"
+    },
+    {
+      "id": "54a74dd17468696de7c61028",
+      "name": "Lauren Birkel",
+      "website_url": "https://orangeshoe.com",
+      "email": "lbirkel@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "57da742ea6da984a74cfb675",
+      "name": "Emily McKiddy",
+      "website_url": "https://orangeshoe.com",
+      "email": "emckiddy@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "5f5bff83938ed70001dfdaac",
+      "name": "John McKiddy",
+      "website_url": "https://orangeshoe.com",
+      "email": "jmckiddy@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "6253ddfe1417f70001f68b44",
+      "name": "Nathan M",
+      "website_url": "http://www.studeogyms.com",
+      "email": "nathan@studeogyms.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://studeogyms.com/",
+      "page_title": "Studeo Gyms - World Class Studios | Premium Training"
+    },
+    {
+      "id": "626da92f56037e000169a241",
+      "name": "Brent Hurlbert",
+      "website_url": "https://orangeshoe.com",
+      "email": "bhurlbert@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "62e2ba685c210c0001105f56",
+      "name": "Susan R",
+      "website_url": "https://bodybalancepleasanton.com",
+      "email": "susan.r@bodybalancepleasanton.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://bodybalancepleasanton.com/",
+      "page_title": "Home - Body Balance Pleasanton"
+    },
+    {
+      "id": "66f2f5c7c7b08d00018e66b6",
+      "name": "Jan Skvaril",
+      "website_url": "http://www.rx-diet.com",
+      "email": "jan.skvaril@rx-diet.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.rx-diet.com/",
+      "page_title": "RxDiet | Reimagining Food as Medicine"
+    },
+    {
+      "id": "66f38b6869db9c0001f17dd4",
+      "name": "Jeremy Avner",
+      "website_url": "http://www.nuvivaweightloss.com",
+      "email": "javner@nuvivaweightloss.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nuvivaweightloss.com/",
+      "page_title": "Nuviva Medical Weight Loss Clinics"
+    },
+    {
+      "id": "66f52534be451d0001f6f410",
+      "name": "Dale Huff",
+      "website_url": "http://www.nutriformance.com",
+      "email": "daleh@nutriformance.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutriformance.com/",
+      "page_title": "Gym, Personal Trainers & Physical Therapists | St. Louis, MO"
+    },
+    {
+      "id": "66f5527eae63c900012e5cd7",
+      "name": "Kevin Breedlove",
+      "website_url": "http://www.odysseyhealthclubs.com",
+      "email": "kevin.breedlove@odysseyhealthclubs.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.odysseyhealthclubs.com/",
+      "page_title": "Health Club in Hertfordshire | Odyssey Health Club & Spa"
+    },
+    {
+      "id": "66f5ca929f60640001269ff0",
+      "name": "Cat K",
+      "website_url": "http://www.sweatpro.com",
+      "email": "cat@studiosweat.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://sweatpro.com/",
+      "page_title": "SweatPRO™ | onDemand Classes For Commercial Business"
+    },
+    {
+      "id": "66f6a2819388d900011425b4",
+      "name": "Sally Breedlove",
+      "website_url": "http://www.odysseyhealthclubs.com",
+      "email": "sally.breedlove@odysseyhealthclubs.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.odysseyhealthclubs.com/",
+      "page_title": "Health Club in Hertfordshire | Odyssey Health Club & Spa"
+    },
+    {
+      "id": "66f75a66d1115c000121243e",
+      "name": "Chris Hill",
+      "website_url": "http://www.longviewpersonaltrainer.com",
+      "email": "chris@personallyfitbychrishill.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.longviewpersonaltrainer.com/",
+      "page_title": "Longview Personal Trainer - Longview, Texas"
+    },
+    {
+      "id": "66f904eaee610d0001b8fc6a",
+      "name": "Josh Levine",
+      "website_url": "http://www.thefortisacademy.com",
+      "email": "josh@thefortisacademy.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://thefortisacademy.com/",
+      "page_title": "Home - Fortis Academy"
+    },
+    {
+      "id": "66fc0c9e373a2900013905e0",
+      "name": "Keith Bailey",
+      "website_url": "https://bodybalancepleasanton.com",
+      "email": "keith.bailey@bodybalancepleasanton.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://bodybalancepleasanton.com/",
+      "page_title": "Home - Body Balance Pleasanton"
+    },
+    {
+      "id": "66fee8c297c2ac0001ff0299",
+      "name": "Abby Resch",
+      "website_url": "https://orangeshoe.com",
+      "email": "brookfield@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "66ffe00a5ec9f20001c53695",
+      "name": "Ted Fournier",
+      "website_url": "https://orangeshoe.com",
+      "email": "tfournier@orangeshoe.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.orangeshoe.com/",
+      "page_title": "Orange Shoe Personal Fitness & Training: MASTER YOUR DNA | Orange Shoe Personal Fitness Wisconsin - Illinois - USA"
+    },
+    {
+      "id": "672da8f66296010001293d42",
+      "name": "Women Fitness",
+      "website_url": "http://www.womenfitness.net",
+      "email": "namita@womenfitness.net",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.womenfitness.net/",
+      "page_title": "Women Fitness| A Wholesome Guide to Women Health & Wellness"
+    },
+    {
+      "id": "675bbdd8f7cd8700016deee7",
+      "name": "Gary Boyett",
+      "website_url": "https://primenutrition.com",
+      "email": "gboyett@primeline.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.primenutrition.com/",
+      "page_title": "Prime Nutrition"
+    },
+    {
+      "id": "68a3a4978fe682001520a59e",
+      "name": "Devon Levesque",
+      "website_url": "https://promixnutrition.com",
+      "email": "devon@promixnutrition.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://promixnutrition.com/?pb=0",
+      "page_title": "Natural Protein & Supplements Store | Promix Nutrition®"
+    },
+    {
+      "id": "68a3a59687f04b001d82d775",
+      "name": "Brad Beatty",
+      "website_url": "https://casespecificnutrition.com",
+      "email": "brad@casespecificnutrition.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.casespecificnutrition.com/",
+      "page_title": "Case Specific Nutrition® | Personalized Nutrition & Lifestyle Services"
+    },
+    {
+      "id": "68a418a5e59ea3001d38854c",
+      "name": "Annmarie Grohs",
+      "website_url": "https://bohostudios.com",
+      "email": "annmarie@bohostudios.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.bohostudios.com/",
+      "page_title": "BOHO Studios | Strength, Spinning, Personal Training | Richmond VA"
+    },
+    {
+      "id": "68a418b032d5a1001d73d027",
+      "name": "Michael Bires",
+      "website_url": "https://nutritionfaktory.com",
+      "email": "mike@nutritionfaktory.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutritionfaktory.com/",
+      "page_title": "Vitamins, Supplements, Healthy Meals & Snacks – Nutrition Faktory"
+    },
+    {
+      "id": "54a2f0fc7468693fdadf4b48",
+      "name": "Katrina Brinton",
+      "website_url": "http://www.totalhealthandfitness.com",
+      "email": "katrina_brinton@totalhealthandfitness.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.totalhealthandfitness.com/",
+      "page_title": "Nutrition | Custom Workouts | Total Health and Fitness"
+    },
+    {
+      "id": "54a3c4c97468693676332d11",
+      "name": "Jenine Wright",
+      "website_url": "http://www.joinfitlife.com",
+      "email": "jenine@fitlifemelrose.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.godaddy.com/forsale/joinfitlife.com?utm_source=TDFS_BINNS&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns_base&traffic_type=TDFS_BINNS&traffic_id=binns&",
+      "page_title": "joinfitlife.com"
+    },
+    {
+      "id": "54a40e8e7468693b8c3bca28",
+      "name": "Bradley McMath",
+      "website_url": "http://www.porthuronchiropractic.com",
+      "email": "bmcmath@porthuronchiropractic.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.porthuronchiropractic.com/",
+      "page_title": "Chiropractor Port Huron, Marysville MI | Lakeview Chiropractic PC"
+    },
+    {
+      "id": "54a60d8f7468693442c768be",
+      "name": "James Hanton",
+      "website_url": "http://www.nutrabio.com",
+      "email": "james@gotemfit.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://nutrabio.com/",
+      "page_title": "Performance & Wellness Supplements – NutraBio Brands"
+    },
+    {
+      "id": "54a6e3db7468696220269601",
+      "name": "Jeffrey Boyd",
+      "website_url": "http://www.getmte.com",
+      "email": "jb@getmte.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://getmte.com/",
+      "page_title": "MTE: Healthy Energy & Daily Wellness"
+    },
+    {
+      "id": "54a7582474686975f8da2b2c",
+      "name": "Tammara King",
+      "website_url": "http://www.bodydynamicsinc.com",
+      "email": "tammara@jayblahnik.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://bodydynamicsinc.com/",
+      "page_title": "Body Dynamics Inc - Physical Therapy Near Me in Falls Church VA"
+    },
+    {
+      "id": "54a790507468696b7f9b2040",
+      "name": "Bryan L",
+      "website_url": "http://www.fivepointsfitness.net",
+      "email": "bryan@fivepointsfitness.net",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.fivepointsfitness.net/",
+      "page_title": "Five Points Fitness – Elite Fitness"
+    },
+    {
+      "id": "57d5356fa6da9853765bfbab",
+      "name": "Garrett Zagunis",
+      "website_url": "http://www.aspirefitnessma.com",
+      "email": "garrett@aspirefitnessma.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.aspirefitnessma.com/",
+      "page_title": "Home - Aspire Fitness"
+    },
+    {
+      "id": "6240a2c2a56274000197c056",
+      "name": "Sandy Kellin",
+      "website_url": "http://www.xendurance.com",
+      "email": "sandy@xendurance.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://xendurance.com/",
+      "page_title": "Xendurance | Certified Sport & Performance Products"
+    },
+    {
+      "id": "64d51985e966900001337d8c",
+      "name": "Joan Herzog",
+      "website_url": "http://www.nutritionalsolutions.co.za",
+      "email": "joan@nutritionalsolutions.com.sg",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nutritionalsolutions.co.za/",
+      "page_title": "Home - Nutritional Solutions"
+    },
+    {
+      "id": "6616162e6b0d2f0007d1baa8",
+      "name": "David B",
+      "website_url": "http://www.everybodyshealth.us",
+      "email": "dr.berring@everybodyshealth.net",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.everybodyshealth.us/",
+      "page_title": "Just a moment..."
+    },
+    {
+      "id": "66f1207a0b93d300017f7e93",
+      "name": "Alex Guerrero",
+      "website_url": "http://www.tb12sports.com",
+      "email": "ag@tb12sports.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://tb12sports.com/",
+      "page_title": "TB12 | Protein Powder, Electrolytes, Supplements by Tom Brady"
+    },
+    {
+      "id": "66f27a289e4b1e00013b1b2d",
+      "name": "Adam D",
+      "website_url": "http://www.gobento.com",
+      "email": "adam@gobento.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.gobento.com/",
+      "page_title": "Bento"
+    },
+    {
+      "id": "66f3ea3e4cbe7000010ba335",
+      "name": "Stu Gelbard",
+      "website_url": "http://www.barringtonnutritionals.com",
+      "email": "sgelbard@barringtonchem.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.barringtonnutritionals.com/",
+      "page_title": "Barrington Nutritionals"
+    },
+    {
+      "id": "66f44adfd3a5ee0001d1494b",
+      "name": "Brent Sheckler",
+      "website_url": "http://www.suppz.com",
+      "email": "brent@suppz.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://suppz.com/",
+      "page_title": "💪 Suppz: Premium Supplements for Peak Performance"
+    },
+    {
+      "id": "66f4a621582bfd00015b9978",
+      "name": "Stephany Acosta",
+      "website_url": "http://www.elevatefitnessnow.com",
+      "email": "stephany@elevatefitnessnow.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.elevatefitnessnow.com/",
+      "page_title": "Home | Elevate Fitness Now | Dallas & Coppell"
+    },
+    {
+      "id": "66f683d8ef73f00001fd6b7a",
+      "name": "Ruben Rodriguez",
+      "website_url": "http://www.boisehears.com",
+      "email": "ruben.rodriguez@flex.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://boisehears.com/",
+      "page_title": "Audiology & Hearing Aid Center - Hearing Aid Center - Boise"
+    },
+    {
+      "id": "66f6a879a3fccf0001e4a6f6",
+      "name": "Adam Carlson",
+      "website_url": "http://www.totalhealthandfitness.com",
+      "email": "adam@totalhealthandfitness.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.totalhealthandfitness.com/",
+      "page_title": "Nutrition | Custom Workouts | Total Health and Fitness"
+    },
+    {
+      "id": "66f6a8bfc4379b0001510a8b",
+      "name": "Jeffrey Delaney",
+      "website_url": "http://www.nuvivaweightloss.com",
+      "email": "jdelaney@nuvivaweightloss.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nuvivaweightloss.com/",
+      "page_title": "Nuviva Medical Weight Loss Clinics"
+    },
+    {
+      "id": "66f6bb1c836fdb00017a6583",
+      "name": "Phil Y",
+      "website_url": "http://www.nutrifitonline.com",
+      "email": "pyaney@nutrifitonline.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.nutrifitonline.com/",
+      "page_title": "Customized Diet Meal Delivery Delivered to Your Door | NutriFit"
+    },
+    {
+      "id": "66f75b88d8e01a0001859dc0",
+      "name": "Jadean Anderson",
+      "website_url": "http://www.afcwellness.com",
+      "email": "dr.jadean@anderson-chiropractic.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.afcwellness.com/",
+      "page_title": "Anderson Family Chiropractic and Wellness | Waterville OH"
+    },
+    {
+      "id": "66fb33a90ae23600012f8a0e",
+      "name": "Yoha Grissom",
+      "website_url": "http://www.flexfitnesstn.com",
+      "email": "yoha@yohashelpinghand.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://flexfitnesstn.com/",
+      "page_title": "Flex Fitness TN"
+    },
+    {
+      "id": "66ff01b82dac9b0001b12056",
+      "name": "Anders Arnesen",
+      "website_url": "http://www.thevegangym.com",
+      "email": "anders@thevegangym.com",
+      "validation_reason": "Valid website",
+      "final_url": "https://www.thevegangym.com/",
+      "page_title": "The Vegan Gym"
+    }
+  ],
+  "hello_world_sites": [
+    {
+      "id": "66f4c85316cb6200016a29f2",
+      "name": "Luis Behar",
+      "website_url": "http://www.rzonefitness.com",
+      "email": "luis@rzonefitness.com",
+      "validation_reason": "Hello World/Placeholder content",
+      "final_url": "https://www.rzonefitness.com/",
+      "page_title": "Best Women's Only Gym in Miami, FL | RZone Fitness"
+    }
+  ],
+  "invalid_sites": [],
+  "error_sites": [
+    {
+      "id": "66f6fda9535ef50001a339bd",
+      "name": "Colin Doherty",
+      "website_url": "http://www.dohertynutrition.com",
+      "email": "colin@dohertynutrition.com",
+      "validation_reason": "Connection error: Timeout",
+      "final_url": "http://www.dohertynutrition.com",
+      "page_title": "N/A"
+    },
+    {
+      "id": "68a418a2909a3f001da2211b",
+      "name": "Heather Beckman",
+      "website_url": "https://lifestylenutrition-llc.com",
+      "email": "heather@lifestylenutritioninc.com",
+      "validation_reason": "Connection error: net::ERR_NAME_NOT_RESOLVED at https://lifestylenutrition-llc.com",
+      "final_url": "https://lifestylenutrition-llc.com",
+      "page_title": "N/A"
+    }
+  ]
+}
